@@ -14,7 +14,7 @@ php artisan cache:clear && php artisan config:clear
 php artisan serve
 ```
 
-let's add data inside our pivot table through our database seeder.
+let's add data inside our database seeder.
 
 ```
 php artisan db:seed
